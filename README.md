@@ -10,9 +10,10 @@ Greetings! I'm Sairaj, a passionate fullstack web developer with a knack for cra
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 🌟 Projects
-1. **E-commerce Platform** - A full-fledged online store built with MERN stack.
-2. **Task Management App** - A React-based application for efficient task organization.
-3. **Personal Blog** - A responsive blog site showcasing my journey in tech.
+1. **AgriAid** - AgriAid is a machine learning model that detects diseases in plant leaves. It can be a valuable tool for farmers, gardeners, and anyone interested 
+                 in plants health.
+2. **WavePlay** - WavePlay is an innovative media player controller utilizing hand gestures for seamless interaction. 
+3. **RAKSHYA** - RAKSHYA is a comprehensive platform designed to revolutionize the management and reporting of crime incidents. 
 
 ## 📈 GitHub Stats
 <div align="center">
