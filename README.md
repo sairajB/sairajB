@@ -19,7 +19,6 @@ Greetings! I'm Sairaj, a passionate fullstack web developer with a knack for cra
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sairajB&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairajB&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajB&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🌐 Let's Connect
