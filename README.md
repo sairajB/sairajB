@@ -29,7 +29,7 @@ Greetings! I'm Sairaj, a passionate fullstack web developer with a knack for cra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=sairajB&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=sairajb&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
