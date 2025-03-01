@@ -1,36 +1,116 @@
-# 👨‍💻 Sairaj Bodhale | Fullstack Web Developer
-
-## 🚀 About Me
-Greetings! I'm Sairaj, a passionate fullstack web developer with a knack for crafting seamless digital experiences. Currently on the hunt for exciting internship opportunities, I bring a robust skill set in both frontend and backend technologies. My journey in web development is fueled by an insatiable curiosity and a drive to create innovative solutions.
-
-## 🛠️ Tech Stack
-- **Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- **Backend:** ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-## 🌟 Projects
-1. **AgriAid** - AgriAid is a machine learning model that detects diseases in plant leaves. It can be a valuable tool for farmers, gardeners, and anyone interested 
-                 in plants health.
-2. **WavePlay** - WavePlay is an innovative media player controller utilizing hand gestures for seamless interaction. 
-3. **RAKSHYA** - RAKSHYA is a comprehensive platform designed to revolutionize the management and reporting of crime incidents. 
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairajB&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairajB&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  
+  # SAIRAJ BODHALE
+  
+  <code>Fullstack Web Developer</code>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairaj-bodhale/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sairajbodhale)
+  [![Profile Views](https://komarev.com/ghpvc/?username=sairajb&style=flat&color=gray&label=PROFILE+VIEWS)](https://github.com/sairajB)
 </div>
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairaj-bodhale/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sairajbodhale)
+## `>> ABOUT ME`
 
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a passionate fullstack web developer with a focus on creating robust, user-friendly applications. Currently seeking internship opportunities to apply my skills and continue learning in a professional environment.
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=sairajb&label=Profile%20views&color=0e75b6&style=flat)
+```js
+const sairaj = {
+  pronouns: "he/him",
+  location: "India",
+  skills: {
+    languages: ["JavaScript", "Python", "Java", "C++", "C"],
+    frontend: ["HTML5", "CSS3", "React"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "MySQL"],
+  },
+  interests: ["Web Development", "Machine Learning", "UI/UX Design"],
+  currentFocus: "Seeking internship opportunities",
+};
+```
+
+## `>> SKILLS`
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Languages</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## `>> PROJECTS`
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairajB&repo=AgriAid&theme=swift" width="49%" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairajB&repo=WavePlay&theme=swift" width="49%" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sairajB&repo=RAKSHYA&theme=swift" width="49%" />
+  </a>
+</div>
+
+### 🌿 **AgriAid**
+Machine learning model that detects diseases in plant leaves, providing early detection for farmers and gardeners.
+
+### 🎵 **WavePlay**
+An innovative media player controller utilizing hand gestures for touchless interaction.
+
+### 🛡️ **RAKSHYA**
+A comprehensive platform designed to revolutionize crime incident management and reporting.
+
+## `>> GITHUB STATS`
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sairajB&theme=swift&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajB&theme=swift&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajB&layout=compact&langs_count=7&theme=swift&hide_border=true" />
+</div>
+
+## `>> QUOTE OF THE DAY`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+</div>
 
 ---
 
-💼 *Open to internship opportunities! Let's build something amazing together.*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7FF&center=true&width=435&lines=Open+to+internship+opportunities;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://hit.yhype.me/github/profile?user_id=sairajB" width="0" height="0" alt="" />
+</div>
