@@ -171,10 +171,10 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sairajB&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sairajB&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&background=45%2C000000%2C6A5ACD" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajB&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajB&langs_count=8&layout=compact&theme=midnight-purple&hide=html,Tcl&hide_border=true&background=45%2C000000%2C6A5ACD" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
